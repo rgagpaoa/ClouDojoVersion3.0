@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Scrum Master Trainings 2023</name>
+   <tag></tag>
+   <elementGuidId>d5ec30a1-b0c5-4c5f-8986-dfe02e6edc0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='itemsList']/tbody/tr/td[3]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>10cea273-0957-485e-86ab-a159a2f6a318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_axs&amp;view=checklist&amp;id=56</value>
+      <webElementGuid>575e5606-a996-49e4-bb08-68eb4f5fb84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scrum Master Trainings 2023</value>
+      <webElementGuid>afe7b593-3b37-461c-99a8-445063a8bd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemsList&quot;)/tbody[1]/tr[@class=&quot;row0&quot;]/td[3]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>2de2838d-44d7-4009-994a-af0eaa0f2957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='itemsList']/tbody/tr/td[3]/span/a</value>
+      <webElementGuid>24dae7aa-335a-4350-a22b-03688ca9faae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Scrum Master Trainings 2023')]</value>
+      <webElementGuid>e110ca94-e0cb-4ea9-bbb3-04b351033924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Table By:'])[1]/following::a[6]</value>
+      <webElementGuid>5dbceb60-a2f3-413a-9775-2a906eadf672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the ordering.'])[1]/following::a[6]</value>
+      <webElementGuid>878ab14a-6174-4a2e-b1c5-b82aeb08ef5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scrum Master Trainings 2023']/parent::*</value>
+      <webElementGuid>522343f7-73da-4b9f-b50e-f36ff0c7d5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_axs&amp;view=checklist&amp;id=56')]</value>
+      <webElementGuid>ecfd72d8-8274-4a4a-9036-789c7838b42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>cb6f688e-5703-47d4-97f6-2263c1f0e4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_axs&amp;view=checklist&amp;id=56' and (text() = 'Scrum Master Trainings 2023' or . = 'Scrum Master Trainings 2023')]</value>
+      <webElementGuid>a9a83f17-449c-4f35-ad74-8fc2429e1374</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

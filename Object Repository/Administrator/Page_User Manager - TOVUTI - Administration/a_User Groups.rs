@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_User Groups</name>
+   <tag></tag>
+   <elementGuidId>21c95950-8714-4b38-8eec-c16b8e6980d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_user_groups']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c493f0c-688f-47f7-80ec-6c8bef49f114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_users&amp;view=groups</value>
+      <webElementGuid>fbd1a6ba-8af5-4433-97b0-deccb59797d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>4856fdcd-3c14-49ad-ae8a-5301ab270649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>fbe718e0-5bb3-40a1-9037-00ed98deba18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        User Groups                                                                                                                    </value>
+      <webElementGuid>eb721dbe-6840-4b80-9030-61d05a00d9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_user_groups&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>d331898d-acac-49aa-b181-c7a939098522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_user_groups']/a</value>
+      <webElementGuid>90b6403f-8ed9-4476-819a-3e4b453b42f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'User Groups')]</value>
+      <webElementGuid>ab237fbd-e033-4d26-a9fe-a17f781037b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Profile Fields'])[1]/following::a[1]</value>
+      <webElementGuid>a4a297a6-42f8-4a9f-8351-ef7007aa1efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Manager'])[1]/following::a[2]</value>
+      <webElementGuid>f531a217-6cb1-47dc-b49d-9134e5fdf850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Teams'])[1]/preceding::a[1]</value>
+      <webElementGuid>277416dc-8365-4cb8-9f6c-5eebdca8b5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Importer'])[1]/preceding::a[2]</value>
+      <webElementGuid>8b578d41-e2b6-4f09-9902-330ba0b6ee88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Groups']/parent::*</value>
+      <webElementGuid>1de9df33-3d4c-4c15-aaff-03a340d79c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'index.php?option=com_users&amp;view=groups')])[2]</value>
+      <webElementGuid>249c7988-06fb-40d9-913d-11a8deb8f45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/ul/li[3]/a</value>
+      <webElementGuid>caeabb29-0f3f-40a3-b5e0-f4c6e31f9afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_users&amp;view=groups' and (text() = '
+                                        User Groups                                                                                                                    ' or . = '
+                                        User Groups                                                                                                                    ')]</value>
+      <webElementGuid>14ff4192-41da-4d64-b63e-73f7c0e556ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

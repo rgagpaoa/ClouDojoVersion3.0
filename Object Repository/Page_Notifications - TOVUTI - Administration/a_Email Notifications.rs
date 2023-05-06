@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Email Notifications</name>
+   <tag></tag>
+   <elementGuidId>d3d7a73c-bdea-4999-984c-1e6ed4ef619f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_email_notifications']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>34081c84-f20b-4154-8d37-eac30d40bd71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_notifications&amp;view=email_notifications</value>
+      <webElementGuid>40ad9b96-9f25-41a4-9b32-74554b8fc655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>780a3e04-7cd2-43a0-b85c-12e50bece3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>6cc00b0f-39e4-4d5d-8834-977c58355e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Email Notifications                                                                                                                    </value>
+      <webElementGuid>96483432-a943-4ee2-9b07-c95f78728438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_email_notifications&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>aa52a92d-6a6b-44d8-9140-a819ab41554c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_email_notifications']/a</value>
+      <webElementGuid>9853bc07-b51a-4502-8940-7361eb6db891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Email Notifications')]</value>
+      <webElementGuid>5c0454ab-606e-47d8-90df-04e093485ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::a[1]</value>
+      <webElementGuid>55565034-d336-4070-a553-ea99fd579436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popup Notifications'])[1]/preceding::a[1]</value>
+      <webElementGuid>2118c64e-d84f-4a50-98ac-4a9e6bad7feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Notifications']/parent::*</value>
+      <webElementGuid>02efecbf-d757-4006-97da-606da9693e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_notifications&amp;view=email_notifications')]</value>
+      <webElementGuid>fe3b9ef6-5e62-4011-b32d-ab691732251f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/a</value>
+      <webElementGuid>dca2233c-17da-4f2a-a8ad-5d03636b08ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_notifications&amp;view=email_notifications' and (text() = '
+                                        Email Notifications                                                                                                                    ' or . = '
+                                        Email Notifications                                                                                                                    ')]</value>
+      <webElementGuid>69f6dc3c-e1be-45c6-9e56-7d776535132b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

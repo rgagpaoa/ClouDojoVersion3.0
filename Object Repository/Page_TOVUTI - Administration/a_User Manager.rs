@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_User Manager</name>
+   <tag></tag>
+   <elementGuidId>0f9b27d5-3233-4644-bdaa-2854f077d966</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_user_manger']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcfd6a4a-7cc8-4f20-a8e4-eaf4b24a6e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_users&amp;view=axsusers</value>
+      <webElementGuid>7f58faaf-c88b-42bd-8fc2-7371a4167d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>c7957a30-46c5-4996-b33e-e2c0545ae523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>33484ee7-ad7f-4953-98ff-ec1e4822a2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        User Manager                                                                                                                    </value>
+      <webElementGuid>1abb6b9a-a823-4fc1-a5d4-29a1c60bda4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_user_manger&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>37e4e25e-0103-4f79-a347-b4801df476e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_user_manger']/a</value>
+      <webElementGuid>05ba3971-a1bc-4430-b17d-938f8d0d9629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'User Manager')]</value>
+      <webElementGuid>b87f8f45-274d-4a75-a803-98e9f614cc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions'])[11]/following::a[11]</value>
+      <webElementGuid>ead55966-ca43-49d0-baad-d67a88351492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Profile Fields'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f046571-17fc-46ca-863d-a4343c55afe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Groups'])[1]/preceding::a[2]</value>
+      <webElementGuid>66957779-ad16-491d-9e62-40024845c3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Manager']/parent::*</value>
+      <webElementGuid>b2cb202e-504f-496f-a06d-731ae106014f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_users&amp;view=axsusers')]</value>
+      <webElementGuid>182b4c28-4ec0-4c10-a0fd-4db7c2f60d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/ul/li/a</value>
+      <webElementGuid>6c1e2f93-d00d-4959-8511-b8e069ce5436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_users&amp;view=axsusers' and (text() = '
+                                        User Manager                                                                                                                    ' or . = '
+                                        User Manager                                                                                                                    ')]</value>
+      <webElementGuid>73bfab1c-09b1-4130-bc0a-6b45d253d5fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

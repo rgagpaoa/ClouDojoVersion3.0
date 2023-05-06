@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Access Levels</name>
+   <tag></tag>
+   <elementGuidId>00d61dbf-a2fd-4968-9490-dc0eff8702bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_user_access_levels']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d023a55b-5a1e-4f42-8ccc-7d8ca2a94d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_users&amp;view=levels</value>
+      <webElementGuid>43615576-7632-4b6c-a554-f28baece9cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>1e152b51-4503-455a-9448-9873f2eb4731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>27bc16c0-1777-446a-ad59-2acca1855348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Access Levels                                                                                                                    </value>
+      <webElementGuid>54512d5d-9f55-4516-b9e5-d2935f2193f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_user_access_levels&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>073f2f9e-e026-4fc4-a1c6-564de0c0ea7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_user_access_levels']/a</value>
+      <webElementGuid>529ebffa-0d7b-4cb3-b0c3-2d99834675bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Access Levels')]</value>
+      <webElementGuid>20928e86-8066-4ea0-ba5d-829f359f83da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Note Categories'])[1]/following::a[1]</value>
+      <webElementGuid>04d41d15-cd8c-45c0-bac9-ca36561fb04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Notes'])[1]/following::a[2]</value>
+      <webElementGuid>3ac851b5-eecd-4e5a-a4ff-1dc2c1aaab7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Roles &amp; Permissions'])[1]/preceding::a[1]</value>
+      <webElementGuid>53608ebd-93b6-4da4-b644-2d5cf5257d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructors'])[1]/preceding::a[2]</value>
+      <webElementGuid>46a42505-58dc-4eea-8e51-aff0c83f4e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Access Levels']/parent::*</value>
+      <webElementGuid>4508dd18-e152-455c-bf22-ec7640eef316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_users&amp;view=levels')]</value>
+      <webElementGuid>390ae170-b4a2-471e-b9a2-7245dcc95713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/ul/li[8]/a</value>
+      <webElementGuid>2c3a926b-4dd4-4135-989f-9650ed110734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_users&amp;view=levels' and (text() = '
+                                        Access Levels                                                                                                                    ' or . = '
+                                        Access Levels                                                                                                                    ')]</value>
+      <webElementGuid>9c21cf06-c5c9-4b52-9f1b-ab814c9f6636</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

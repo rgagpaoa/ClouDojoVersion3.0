@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Activity Reports</name>
+   <tag></tag>
+   <elementGuidId>83e3fef5-958a-4c60-b5dd-8f49c299bcd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_analytics_activity_reports']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae75af38-ee45-4aba-ac63-bfc73475d3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_reports&amp;view=activity_reports</value>
+      <webElementGuid>030428d5-cb24-4b80-922c-0a2e597f0291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>2fcb2af2-ad9c-42a1-95d1-0c4e45705d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>e2fec64a-32a1-4425-8ab8-886e4c5a7bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Activity Reports                                                                                                                    </value>
+      <webElementGuid>e7e2b609-3165-41b5-8127-59caad209539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_analytics_activity_reports&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>2c74bd8b-43f6-4864-b019-31c23e52b5c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_analytics_activity_reports']/a</value>
+      <webElementGuid>d8f519d0-520c-4c56-a868-6d3e43b68c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Activity Reports')]</value>
+      <webElementGuid>69964954-65d0-4615-b7d8-e2e477423b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Builder'])[1]/following::a[1]</value>
+      <webElementGuid>ac29a2bd-c354-4600-a5e0-64b0fc6fdb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>69e2b30e-baa2-4b48-ac91-40cfeec65a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Dashboards'])[1]/preceding::a[2]</value>
+      <webElementGuid>45c42ee2-89ca-47f9-97a3-ef305066b212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Activity Reports']/parent::*</value>
+      <webElementGuid>0140c45e-81ac-4e14-ad2d-7123f012e439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_reports&amp;view=activity_reports')]</value>
+      <webElementGuid>a4e98fcd-0312-4a75-a3d5-f682087ecaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li[2]/a</value>
+      <webElementGuid>71489762-dfaf-4a39-8cfb-7902752ae3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_reports&amp;view=activity_reports' and (text() = '
+                                        Activity Reports                                                                                                                    ' or . = '
+                                        Activity Reports                                                                                                                    ')]</value>
+      <webElementGuid>2dcc9159-cef2-4ba7-b4ed-52151208a2fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_General Courses</name>
+   <tag></tag>
+   <elementGuidId>16190cd8-45c3-4353-a8ed-524f7540779b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cbb47bc8-8c63-4697-aa2a-1d9437337371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_splms&amp;view=coursescategory&amp;id=1</value>
+      <webElementGuid>1a439355-6774-4167-972e-72bb7e292bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Courses</value>
+      <webElementGuid>cbca1d93-f17a-4540-bec3-5d56c34ecfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemsList&quot;)/tbody[1]/tr[@class=&quot;row0&quot;]/td[4]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>ba545e44-e221-4a15-8ed7-4867fe287bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      <webElementGuid>519a2424-c29e-499a-b1e2-14df9030e697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'General Courses')]</value>
+      <webElementGuid>ed6396c9-47e0-49ed-843a-d3f087382ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Table By:'])[1]/following::a[5]</value>
+      <webElementGuid>c26bfad1-d045-4aed-9137-31837dfd18c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the ordering.'])[1]/following::a[5]</value>
+      <webElementGuid>8b8822d7-56a1-44b7-b4aa-bf4c9fb160e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Courses']/parent::*</value>
+      <webElementGuid>6c84bc3b-2217-4b6a-84eb-647c684897a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_splms&amp;view=coursescategory&amp;id=1')]</value>
+      <webElementGuid>63f01b5e-8ab9-4019-b2be-ccd374587034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>329010e6-5a11-4a3d-9b36-cbb83bd727da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_splms&amp;view=coursescategory&amp;id=1' and (text() = 'General Courses' or . = 'General Courses')]</value>
+      <webElementGuid>afd9ce32-008a-4738-82f7-82599dc401ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

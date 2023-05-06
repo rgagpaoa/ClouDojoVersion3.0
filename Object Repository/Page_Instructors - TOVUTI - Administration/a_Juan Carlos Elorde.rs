@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Juan Carlos Elorde</name>
+   <tag></tag>
+   <elementGuidId>02045434-f636-4aa2-8927-cac5217fa401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32c88560-5477-459a-ada0-9ab823b7d646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_splms&amp;view=teacher&amp;id=3</value>
+      <webElementGuid>7442ee4b-7cc0-4b30-9f6a-60e44763f148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Juan Carlos Elorde</value>
+      <webElementGuid>87c0cd6d-4c58-4850-a8ed-edc171d625d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemsList&quot;)/tbody[1]/tr[@class=&quot;row0&quot;]/td[4]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>33ee832c-8d9e-4b3b-ae6e-f78c3f276b6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      <webElementGuid>9c19d184-2351-475f-8908-2de793f44b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Juan Carlos Elorde')]</value>
+      <webElementGuid>9bb07d9a-f8bd-4d7e-9a72-195d799b791f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Table By:'])[1]/following::a[7]</value>
+      <webElementGuid>7e266432-e2e0-49d0-b263-17daf608b4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the ordering.'])[1]/following::a[7]</value>
+      <webElementGuid>f9aa862b-4e4d-4c12-88ec-7d5574428255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech Lead'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ae74574-dfbd-4acd-9e12-1d402d0dd80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Juan Carlos Elorde']/parent::*</value>
+      <webElementGuid>02f1083f-3ee8-4bb4-9e7b-199b5cc0b3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_splms&amp;view=teacher&amp;id=3')]</value>
+      <webElementGuid>44704205-7dbf-41d6-8e38-87f12744dcdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>fee08b1c-f26f-425c-bdc6-f36a25eef7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_splms&amp;view=teacher&amp;id=3' and (text() = 'Juan Carlos Elorde' or . = 'Juan Carlos Elorde')]</value>
+      <webElementGuid>ca88bfe2-1c9c-48dc-8514-85e89ba47d46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

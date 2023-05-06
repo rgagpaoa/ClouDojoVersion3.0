@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_- Status -_icon-search text-muted</name>
+   <tag></tag>
+   <elementGuidId>2eed6250-a952-4b36-8920-814957b76dc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-search.text-muted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='filter-bar']/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1e549928-a951-4bd1-b5ab-d8ea6972680e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-search text-muted</value>
+      <webElementGuid>cbbb75df-241f-49ec-a292-29467cf902f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter-bar&quot;)/div[@class=&quot;float-start me-2&quot;]/div[@class=&quot;input-group&quot;]/button[@class=&quot;btn border&quot;]/i[@class=&quot;icon-search text-muted&quot;]</value>
+      <webElementGuid>a69e44f2-d098-4995-a754-9dd2ce95a5ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filter-bar']/div/div/button/i</value>
+      <webElementGuid>386e2964-fc3e-4128-b376-b44cdb363437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/i</value>
+      <webElementGuid>69140d41-121c-4bbe-b264-8c245a753cf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

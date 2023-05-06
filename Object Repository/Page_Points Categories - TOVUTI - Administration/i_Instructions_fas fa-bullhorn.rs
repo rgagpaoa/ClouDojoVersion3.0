@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Instructions_fas fa-bullhorn</name>
+   <tag></tag>
+   <elementGuidId>acc285f9-05ef-41ab-b420-e9cd34affd76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menuItem-tovuti_nav_communications']/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-bullhorn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>142036cf-90a6-49a1-9af7-5f5d3a9651e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-bullhorn</value>
+      <webElementGuid>caace62c-e2a4-4da7-a89c-72da6c445d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuItem-tovuti_nav_communications&quot;)/a[@class=&quot;nav-link&quot;]/i[@class=&quot;fas fa-bullhorn&quot;]</value>
+      <webElementGuid>bb8acaea-9097-4b4a-87e5-21eb320a39b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menuItem-tovuti_nav_communications']/a/i</value>
+      <webElementGuid>3741d803-bfed-4dd9-a235-e94f4fabeb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a/i</value>
+      <webElementGuid>223d0ef5-e716-4711-848b-b4bbae5adaba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

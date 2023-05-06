@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test Team</name>
+   <tag></tag>
+   <elementGuidId>82f0174b-9ea5-4d6c-b1ff-ff8c1e4b8098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='itemsList']/tbody/tr/td[3]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27bbc35d-4c10-411e-a888-949b7433a9ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_axs&amp;view=team&amp;id=1</value>
+      <webElementGuid>a7b06f3b-a4fe-4713-a786-5143a86ddf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Team</value>
+      <webElementGuid>4b52f352-a3c9-450e-852a-021aff398433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemsList&quot;)/tbody[1]/tr[@class=&quot;row0&quot;]/td[3]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>3719164a-9137-4641-ae90-9db78818fcc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='itemsList']/tbody/tr/td[3]/span/a</value>
+      <webElementGuid>884b8a47-1140-4095-b910-6b25d7522fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test Team')]</value>
+      <webElementGuid>c60ddef6-03a1-4aa0-baef-8493a1aac872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Table By:'])[1]/following::a[6]</value>
+      <webElementGuid>9a509603-2db0-4e26-a459-694165bac60b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the ordering.'])[1]/following::a[6]</value>
+      <webElementGuid>d174bf53-445d-4aff-b86b-bca8a616657e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Team']/parent::*</value>
+      <webElementGuid>ee64df24-982f-42cc-98d7-7e5a3a784da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_axs&amp;view=team&amp;id=1')]</value>
+      <webElementGuid>defeb116-2cc5-4bdf-b47f-d8c0797d6390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>530fa5a0-9e8f-42a6-a742-142fdb33eab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_axs&amp;view=team&amp;id=1' and (text() = 'Test Team' or . = 'Test Team')]</value>
+      <webElementGuid>abfae80a-9914-41a3-80e1-9d7411a53ea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

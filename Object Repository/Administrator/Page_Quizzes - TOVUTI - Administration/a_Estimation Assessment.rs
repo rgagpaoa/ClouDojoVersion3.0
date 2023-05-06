@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Estimation Assessment</name>
+   <tag></tag>
+   <elementGuidId>7723ce4c-88e2-449e-b0db-e0f42cfb8c83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>842fb28f-54b6-4ced-8fb0-8c3b91e71a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_splms&amp;view=quizquestion&amp;id=242</value>
+      <webElementGuid>bd968e2a-ebfa-4c86-917b-b89379d955b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estimation Assessment</value>
+      <webElementGuid>0fbf2229-cfee-460b-b8c1-8343c9ce9b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemsList&quot;)/tbody[1]/tr[@class=&quot;row0&quot;]/td[4]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>76377eb2-a223-488b-86ae-010e921ade8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      <webElementGuid>0cb5dee9-a2bb-43a0-99fa-99d925ffa5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Estimation Assessment')]</value>
+      <webElementGuid>b2084ad4-3ed8-4f47-b693-901e2ceed370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Table By:'])[1]/following::a[6]</value>
+      <webElementGuid>cd2c368f-0d79-402a-9964-aa8cc53c15d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the ordering.'])[1]/following::a[6]</value>
+      <webElementGuid>61634fba-775c-4008-bd48-79373879672f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech Lead Program: Working Excellence - Basic Delivery Process'])[2]/preceding::a[1]</value>
+      <webElementGuid>a24faf85-36ec-446d-afae-b7dc46514557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Estimation Assessment']/parent::*</value>
+      <webElementGuid>e222ed18-9b99-43e0-b50a-0af3c64028df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_splms&amp;view=quizquestion&amp;id=242')]</value>
+      <webElementGuid>15888a24-7b89-42ec-a921-de7f084409f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>5392ad3a-3fd0-40d4-a493-9a39b744bec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_splms&amp;view=quizquestion&amp;id=242' and (text() = 'Estimation Assessment' or . = 'Estimation Assessment')]</value>
+      <webElementGuid>480efe33-4bc7-46bf-85f5-e12dfa000729</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

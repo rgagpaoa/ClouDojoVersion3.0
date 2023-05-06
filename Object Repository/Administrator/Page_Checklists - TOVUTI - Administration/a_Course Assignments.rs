@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Course Assignments</name>
+   <tag></tag>
+   <elementGuidId>4fd0a20b-16e8-492f-9a9f-b705b704fabd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_learning_courseassignments']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7b9e873-d06b-4acf-ace1-9637c64ce3cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_splms&amp;view=courseassignments</value>
+      <webElementGuid>3fbbf6cf-6b9c-49cf-8330-8bba72a8e228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>a0e15588-67be-40fd-baf5-180f1e2863e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>9921639a-946b-4c14-a727-654f70f0f372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Course Assignments                                                                                                                    </value>
+      <webElementGuid>58de2bcd-35b5-44ec-8d93-3b04a3daed6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_learning_courseassignments&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>3684aea6-30ac-4337-a6b4-0ad789ce8d29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_learning_courseassignments']/a</value>
+      <webElementGuid>1af03bbb-f8ee-49e2-9ddf-bf725ef58fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Course Assignments')]</value>
+      <webElementGuid>f2a8b1cd-d255-40df-b6e9-d4130c126a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checklists'])[1]/following::a[1]</value>
+      <webElementGuid>1ede33b9-3d93-4012-b822-667a6f40316e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lessons'])[1]/following::a[2]</value>
+      <webElementGuid>7d3a7bb0-66fa-4273-a93a-be441f1628bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Classroom'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f344747-477c-4ddb-86de-7dcaa9b597b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Comments'])[1]/preceding::a[2]</value>
+      <webElementGuid>8510c2ea-54c1-42e4-975d-e562ba61ac92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Course Assignments']/parent::*</value>
+      <webElementGuid>789ee2fb-2b1f-4316-bb6c-383c70c7ae6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'index.php?option=com_splms&amp;view=courseassignments')])[2]</value>
+      <webElementGuid>52a8beb1-e5cf-4a7c-b968-ea9170f2a0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[6]/a</value>
+      <webElementGuid>1b6595fd-97ba-4214-8630-68831bd1b030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_splms&amp;view=courseassignments' and (text() = '
+                                        Course Assignments                                                                                                                    ' or . = '
+                                        Course Assignments                                                                                                                    ')]</value>
+      <webElementGuid>8bd9df9d-2e71-420c-ad90-a7c1bab5995f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_User Note Categories</name>
+   <tag></tag>
+   <elementGuidId>c457f943-7337-4583-854c-ffff983bc505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_user_note_categories']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c36b83be-fbb3-4b81-9da3-32f0b5becadc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_categories&amp;view=categories&amp;extension=com_users</value>
+      <webElementGuid>e4af668e-50f7-42e5-9f71-2dea0d85b0aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>b21185b0-e845-4802-8289-fce2192d5d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>dbeb8977-b3e0-462c-978d-d1af1d724457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        User Note Categories                                                                                                                    </value>
+      <webElementGuid>e1323ac1-8e02-4a5a-a47b-2f7558a2da76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_user_note_categories&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>b66ee859-7977-4484-bcd3-6aa520a214c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_user_note_categories']/a</value>
+      <webElementGuid>0de9d9e3-e10c-4bee-ab64-9b74bc64a1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'User Note Categories')]</value>
+      <webElementGuid>2e0daed6-2e9e-4c02-8b88-3c2ef507ed17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Notes'])[1]/following::a[1]</value>
+      <webElementGuid>a5fa23ac-a788-4f10-948a-ab5b9d1ab3d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Importer'])[1]/following::a[2]</value>
+      <webElementGuid>f522e270-837b-426e-900b-cc9107e91638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Levels'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d53670a-902b-4eb3-bd2b-c712f25680e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Roles &amp; Permissions'])[1]/preceding::a[2]</value>
+      <webElementGuid>e64db57c-b536-4494-ae87-fabe2a67b4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Note Categories']/parent::*</value>
+      <webElementGuid>02b6e975-a13f-46fa-8879-e7eaa346fd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_categories&amp;view=categories&amp;extension=com_users')]</value>
+      <webElementGuid>093f82ab-856e-4bd2-96d8-92b2ce3b755b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/ul/li[7]/a</value>
+      <webElementGuid>b1b35605-1074-4397-9fc7-95bb17ed5a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_categories&amp;view=categories&amp;extension=com_users' and (text() = '
+                                        User Note Categories                                                                                                                    ' or . = '
+                                        User Note Categories                                                                                                                    ')]</value>
+      <webElementGuid>4580ec69-6f20-4bb4-9da6-11426ecdc790</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

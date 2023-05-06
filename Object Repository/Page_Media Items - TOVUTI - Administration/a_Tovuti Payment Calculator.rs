@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tovuti Payment Calculator</name>
+   <tag></tag>
+   <elementGuidId>99787f13-d053-4904-801e-e5d7ee1813ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0eaff9d9-9b39-41e9-91fd-7bc05550bbe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_axs&amp;view=video&amp;id=3</value>
+      <webElementGuid>55f70a37-6a61-47ea-a115-a3b348885713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tovuti Payment Calculator</value>
+      <webElementGuid>2c177785-e876-4be4-a449-fdc9c3e108d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemsList&quot;)/tbody[1]/tr[@class=&quot;row0&quot;]/td[4]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>09e1c0b6-21a4-4e47-ba55-9c16ae86a6dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='itemsList']/tbody/tr/td[4]/span/a</value>
+      <webElementGuid>a458dcdd-9164-4c02-a554-4ec3e5dfea41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tovuti Payment Calculator')]</value>
+      <webElementGuid>998987db-6100-402e-b74b-96bd4840282e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Table By:'])[1]/following::a[7]</value>
+      <webElementGuid>b373d1b2-9500-4f4f-9da1-5cddb650d0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the ordering.'])[1]/following::a[7]</value>
+      <webElementGuid>7a2fec7f-5e36-48cf-8419-243a83d39222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tovuti Payment Calculator']/parent::*</value>
+      <webElementGuid>5b6bde19-d862-4b24-977e-63690f8b7ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_axs&amp;view=video&amp;id=3')]</value>
+      <webElementGuid>acb6b0ab-39f7-4f96-9546-934bf49558a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>458f080e-7a23-4599-a104-3ab24d1bc0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_axs&amp;view=video&amp;id=3' and (text() = 'Tovuti Payment Calculator' or . = 'Tovuti Payment Calculator')]</value>
+      <webElementGuid>0b16b746-4506-44d6-9f17-0f048a98cf9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

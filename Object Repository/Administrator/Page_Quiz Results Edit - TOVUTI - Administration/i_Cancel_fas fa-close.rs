@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Cancel_fas fa-close</name>
+   <tag></tag>
+   <elementGuidId>0e836c28-dd7e-4952-984a-70c1eb6da067</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toolbar-cancel']/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ee8564e2-b353-4332-ac8c-92ca5c2b70c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-close</value>
+      <webElementGuid>9d6dd600-f7f4-400f-a891-45a6fadd1a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>367ec68e-7225-46b1-960b-7371f0c6cd1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toolbar-cancel&quot;)/button[@class=&quot;btn button-cancel btn-danger&quot;]/i[@class=&quot;fas fa-close&quot;]</value>
+      <webElementGuid>144ffdb4-cdb2-41ab-9619-7c56609d510c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toolbar-cancel']/button/i</value>
+      <webElementGuid>7120bba2-1397-41ee-ba94-9b7c24ccd0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/i</value>
+      <webElementGuid>20c156c9-5658-4b0f-90f3-05cbb7491e6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

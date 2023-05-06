@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Instructions_fas fa-shapes</name>
+   <tag></tag>
+   <elementGuidId>122268e9-cf6e-4484-95d5-18808e3a61ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-shapes</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menuItem-tovuti_nav_content_creation']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7946f615-9885-4890-a6d1-e5226f6d3027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-shapes</value>
+      <webElementGuid>6cf87723-4985-4917-8330-e1c82aec2103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuItem-tovuti_nav_content_creation&quot;)/a[@class=&quot;nav-link&quot;]/i[@class=&quot;fas fa-shapes&quot;]</value>
+      <webElementGuid>420f4790-90e8-4f63-aa4b-16149c61bc3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menuItem-tovuti_nav_content_creation']/a/i</value>
+      <webElementGuid>ed0a77d9-03f9-4d19-aaf3-a79ce6a5b089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a/i</value>
+      <webElementGuid>47319e8f-9123-4d12-8f5e-0eafdd5c77b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

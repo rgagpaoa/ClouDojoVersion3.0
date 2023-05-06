@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Administrator Options</name>
+   <tag></tag>
+   <elementGuidId>32b27a50-8cc4-440d-8a46-a81cc0a726a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.my-account-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='my-account-menu']/li/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>366e73f3-4d83-4b85-87f8-9024d9d85e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-account-label</value>
+      <webElementGuid>ba95cf25-586b-42d1-94dd-a0ea4202ba01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administrator Options</value>
+      <webElementGuid>6b2c51d2-1abb-4e27-bf46-4bb102466bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-account-menu&quot;)/li[1]/a[1]/span[@class=&quot;my-account-label&quot;]</value>
+      <webElementGuid>84451a6b-e9a4-420c-a299-73b95db40fd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='my-account-menu']/li/a/span[2]</value>
+      <webElementGuid>5e0a0d82-d505-4388-b1cc-f480037f321f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Points: 26700'])[1]/following::span[3]</value>
+      <webElementGuid>28cd898b-9b01-414c-ac5d-735b8f0faf1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodel Agpaoa'])[1]/following::span[4]</value>
+      <webElementGuid>439d1244-5ad3-410a-a578-c1a0ea511e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Profile'])[1]/preceding::span[2]</value>
+      <webElementGuid>9738dab7-0712-4428-bac3-2705f0e88752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Manager'])[1]/preceding::span[4]</value>
+      <webElementGuid>909b575e-1f7d-4a53-8a39-44785182e021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Administrator Options']/parent::*</value>
+      <webElementGuid>2b474747-54e5-4752-b61f-795e216f0e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>f2afe76a-f550-474d-bef0-b22f1d67c1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Administrator Options' or . = 'Administrator Options')]</value>
+      <webElementGuid>5c819728-14f8-4254-90fb-733d44075b40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

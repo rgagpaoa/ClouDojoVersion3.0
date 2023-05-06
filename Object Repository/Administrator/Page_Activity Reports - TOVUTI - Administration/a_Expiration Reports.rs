@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Expiration Reports</name>
+   <tag></tag>
+   <elementGuidId>0d4c8978-3712-4dcc-87d7-6db2b76f4c5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tovuti_nav_analytics_expiration_reports']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4f3e0e02-d264-4cb8-b1af-3d1650c8573b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.php?option=com_reports&amp;view=expiration_reports</value>
+      <webElementGuid>1842daa0-124f-4652-9099-b42c8778b467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>fe38756e-4b8f-4070-9ac5-77726fbee78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>c20f6b0c-c3bb-4fbf-8003-37bbe2ea6b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Expiration Reports                                                                                                                    </value>
+      <webElementGuid>33d53cc3-f075-4591-8d7b-266326896d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tovuti_nav_analytics_expiration_reports&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>b55b5cb6-a485-4552-ac93-d70c47b8fd87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tovuti_nav_analytics_expiration_reports']/a</value>
+      <webElementGuid>f90579b2-a59f-4469-9411-c392cc7cd482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Expiration Reports')]</value>
+      <webElementGuid>4e9b6c2c-2f20-4c2b-ab06-92180773e656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Reports'])[1]/following::a[1]</value>
+      <webElementGuid>929ad7f0-ffb8-4c7e-8f3e-20918bdb8e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Builder'])[1]/following::a[2]</value>
+      <webElementGuid>b5989fb8-1b3d-4481-b495-8b5e995dccf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Dashboards'])[1]/preceding::a[1]</value>
+      <webElementGuid>3efdbd49-f95a-4b1c-bab1-b5a45a2930fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Dashboards'])[1]/preceding::a[2]</value>
+      <webElementGuid>d01ccbc1-ef01-479b-8808-f65c8a8c3859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Expiration Reports']/parent::*</value>
+      <webElementGuid>be76011a-a0eb-4385-84c6-b7366a10b734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'index.php?option=com_reports&amp;view=expiration_reports')]</value>
+      <webElementGuid>2067c283-65e0-4426-85cc-9dd411fe7111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li[3]/a</value>
+      <webElementGuid>42e7a370-ceca-40e8-be9d-9ce66af1fcb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.php?option=com_reports&amp;view=expiration_reports' and (text() = '
+                                        Expiration Reports                                                                                                                    ' or . = '
+                                        Expiration Reports                                                                                                                    ')]</value>
+      <webElementGuid>8aad1e36-e68a-4e00-b996-5f220a833f57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

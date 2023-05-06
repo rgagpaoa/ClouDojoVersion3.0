@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ID_k-icon k-i-close</name>
+   <tag></tag>
+   <elementGuidId>f6975460-2b86-425c-9d23-3edcaddea10b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.k-button.k-button-icon > span.k-icon.k-i-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j-main-container']/div/div/div/table/thead/tr[2]/th[4]/span/span/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6d11ddf-c57f-46b0-bf0b-8521274fe451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-close</value>
+      <webElementGuid>3229f061-8ba0-4bcd-8870-81af6593ce58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j-main-container&quot;)/div[@class=&quot;k-grid k-widget&quot;]/div[@class=&quot;k-grid-header&quot;]/div[@class=&quot;k-grid-header-wrap k-auto-scrollable&quot;]/table[1]/thead[1]/tr[@class=&quot;k-filter-row&quot;]/th[4]/span[@class=&quot;k-filtercell&quot;]/span[@class=&quot;k-operator-hidden&quot;]/button[@class=&quot;k-button k-button-icon&quot;]/span[@class=&quot;k-icon k-i-close&quot;]</value>
+      <webElementGuid>30ba5319-135d-46aa-9f32-045fe8b7bce5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='j-main-container']/div/div/div/table/thead/tr[2]/th[4]/span/span/button/span</value>
+      <webElementGuid>73af50c4-9565-4cb4-b200-6440d60ea323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/span</value>
+      <webElementGuid>bc95e664-8c0e-49dc-bcc4-27b81b1c194e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
